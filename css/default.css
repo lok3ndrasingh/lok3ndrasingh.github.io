@@ -802,6 +802,9 @@ properly.
 	text-align: center !important;
 }
 
-
+.responsive-headline :hover {
+   font-size: 30px;
+   transition: 0.5s;
+} 
 
 
