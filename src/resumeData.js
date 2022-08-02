@@ -4,7 +4,7 @@ let resumeData = {
     "role": "React Native Developer / Software Engineer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " I can create super fluid, Ui-rich, crash-free, cross-platform React Native applications.I have an extensive 2.5+ years of Software development including all phases of SDLC.",
+    "roleDescription": " I can create super fluid, Ui-rich, crash-free, cross-platform React Native applications.I have an extensive 2.5+ years of Software development experience including all phases of SDLC.",
     "socialLinks":[
         {
           "name":"linkedin",
