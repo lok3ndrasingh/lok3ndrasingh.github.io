@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Lokendra Singh",
+    "role": "React Native Developer / Software Engineer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I can create super fluid, Ui-rich, crash-free, cross-platform React Native applications.I have an extensive 2.5+ years of Software development including all phases of SDLC.",
     "socialLinks":[
         {
           "name":"linkedin",
