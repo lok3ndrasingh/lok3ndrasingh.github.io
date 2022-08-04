@@ -99,7 +99,7 @@ let resumeData = {
     },
     {
       name: "AcadsHR",
-      description: "Mobile Application for HR jo search",
+      description: "Mobile Application for HR job search",
       imgurl: "images/portfolio/projects/acadshr.jpg",
     },
     {
