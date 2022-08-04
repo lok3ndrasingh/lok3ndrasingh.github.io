@@ -26,12 +26,12 @@ let resumeData = {
     },
     {
       name: "youtube",
-      url: "https://www.instagram.com/lokendrasinghlive",
+      url: "https://www.youtube.com/c/LokendraSinghLive",
       className: "fa fa-youtube",
     },
   ],
   aboutme:
-    "I am from Chhattisgarh, a place which is known as the rice bowl of India. I am very creative. I love to code. I write lyrics, compose music, sing songs, do digital art & calligraphy. I am also passionate about traveling and meeting new people. ",
+    "I am from Chhattisgarh, a place which is known as the rice bowl of India. I am very creative. I love to code. I write lyrics, compose music, sing songs, do digital art & calligraphy. I am also passionate about traveling and interacting with new people. ",
   address: "1st Block Koramangala, Bengaluru, Karnataka, 560034",
   website: "https://lok3ndrasingh.github.io/",
   education: [
@@ -66,10 +66,10 @@ let resumeData = {
       Achievements: "",
     },
   ],
-  skillsDescription: "Your skills here",
+  skillsDescription: "I have these skills : ",
   skills: [
     {
-      skillname: "React Native",
+      skillname: "React JS / React Native",
     },
     {
       skillname: "Javascript, ES6",
@@ -77,27 +77,40 @@ let resumeData = {
     {
       skillname: "Data Structures & Algorithms",
     },
+    {
+      skillname: "NFC",
+    },
+    {
+      skillname: "REST API",
+    },
+    {
+      skillname: "App Deployment on App Store / Play Store",
+    },
+    {
+      skillname: "UI Development",
+    },
+
   ],
   portfolio: [
     {
       name: "Rankpedia",
       description: "Mobile Application for students",
-      imgurl: "images/portfolio/phone.jpg",
+      imgurl: "images/portfolio/projects/rankpedia.jpg",
     },
     {
       name: "AcadsHR",
       description: "Mobile Application for HR jo search",
-      imgurl: "images/portfolio/project.jpg",
+      imgurl: "images/portfolio/projects/acadshr.jpg",
     },
     {
       name: "Boxsoccer",
       description: "Mobile Application for soccer players",
-      imgurl: "images/portfolio/project2.png",
+      imgurl: "images/portfolio/projects/boxsoccer.jpg",
     },
     {
       name: "Timely",
       description: "Mobile Application for time and work management",
-      imgurl: "images/portfolio/phone.jpg",
+      imgurl: "images/portfolio/projects/timely.jpg",
     },
   ],
   testimonials: [
